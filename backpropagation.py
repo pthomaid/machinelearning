@@ -20,7 +20,7 @@ Layers and Networks can be chained together.
 
 """
 
-__author__      = "Panagiotis Thomaidis"
+__author__ = "Panagiotis Thomaidis"
 
 from math import exp
 from random import random
